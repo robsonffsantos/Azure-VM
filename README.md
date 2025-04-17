@@ -2,7 +2,7 @@
 
 ## 📚 Sobre este repositório
 
-Este repositório serve como um guia completo sobre a criação de máquinas virtuais na Microsoft Azure. Desenvolvido durante o laboratório prático do curso, ele reúne resumos, anotações e dicas que podem ser consultados como material de estudo ou referência para implementações futuras.
+Este repositório serve como um guia sobre a criação de máquinas virtuais na Microsoft Azure. Desenvolvido durante o laboratório prático do curso, ele reúne resumos, anotações e dicas que podem ser consultados como material de estudo ou referência para implementações futuras.
 
 ## 🎯 Objetivos
 
